@@ -15,7 +15,7 @@
         </chart:SfChart.Title>
 
         <chart:SfChart.ChartBehaviors>
-          <chart:ChartTooltipBehavior BackgroundColor="#404041" />
+          <chart:ChartTooltipBehavior TextColor="White" />
         </chart:SfChart.ChartBehaviors>
 		
         <chart:SfChart.PrimaryAxis>

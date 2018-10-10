@@ -1,7 +1,7 @@
 # How to localize the labels in Xamarin.Forms SfChart
 This example demonstrates how to add the resource file for different languages and localize the "High" and "Low" labels of the chart data marker in Xamarin.Forms platform.
 
-See [How to localize the labels in Xamarin.Forms SfChart](https://www.syncfusion.com/kb/9415) for more details.
+See [How to localize the labels in Xamarin.Forms SfChart](https://www.syncfusion.com/kb/9415?utm_medium=listing&utm_source=github-examples) for more details.
 ## <a name="requirements-to-run-the-demo"></a>Requirements to run the demo ##
 
 * [Visual Studio 2017](https://visualstudio.microsoft.com/downloads/) or [Visual Studio for Mac](https://visualstudio.microsoft.com/vs/mac/).
